@@ -5,19 +5,19 @@ const chambres = [
   {
     nom: 'Suite Deluxe',
     image: 'https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=600',
-    prix: '€189',
+    prix: '€1890 dhs',
     description: 'Vue panoramique, lit king-size, salle de bain en marbre.',
   },
   {
     nom: 'Chambre Standard',
     image: 'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=600',
-    prix: '€129',
+    prix: '1290 dhs',
     description: 'Chambre confortable avec vue sur le jardin, lit double.',
   },
   {
     nom: 'Suite Familiale',
     image: 'https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=600',
-    prix: '€249',
+    prix: '€2490 dhs',
     description: 'Deux chambres séparées, espace salon, idéale pour familles.',
   },
 ]
